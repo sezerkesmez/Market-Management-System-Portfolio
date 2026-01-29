@@ -47,4 +47,4 @@ Proje, katmanlı mimari (N-Tier) prensiplerine uygun olarak, kodun sürdürüleb
 </p>
 
 ---
-⚠️ **Not:** Güvenlik ve fikri mülkiyet hakları gereği projenin tüm kaynak kodları paylaşılmamıştır. Mimari tasarımı incelemek için klasörlerdeki örnek kod dosyalarına göz atabilirsiniz.
+
