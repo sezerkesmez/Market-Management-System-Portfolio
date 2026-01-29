@@ -21,6 +21,30 @@ Proje, katmanlı mimari (N-Tier) prensiplerine uygun olarak, kodun sürdürüleb
 - **03-Mobile-App:** API istemcisi ve veri modelleri.
 - **04-Database:** Veritabanı şeması (.sql script).
 - **05-Screenshots:** Uygulama içi görseller.
+## 📸 Uygulama Görselleri
+
+### 🖥️ Masaüstü Uygulaması (C# WinForms)
+<p align="center">
+  <img src="05-Screenshots/1.png" width="45%" />
+  <img src="05-Screenshots/2.png" width="45%" />
+</p>
+<p align="center">
+  <img src="05-Screenshots/3.png" width="45%" />
+  <img src="05-Screenshots/4.png" width="45%" />
+</p>
+<p align="center">
+  <img src="05-Screenshots/5.png" width="45%" />
+  <img src="05-Screenshots/6.png" width="45%" />
+</p>
+<p align="center">
+  <img src="05-Screenshots/7.png" width="45%" />
+</p>
+### 📱 Mobil Raporlama (Flutter)
+<p align="center">
+  <img src="05-Screenshots/8.jpg" width="30%" />
+  <img src="05-Screenshots/9.jpg" width="30%" />
+  <img src="05-Screenshots/10.jpg" width="30%" />
+</p>
 
 ---
 ⚠️ **Not:** Güvenlik ve fikri mülkiyet hakları gereği projenin tüm kaynak kodları paylaşılmamıştır. Mimari tasarımı incelemek için klasörlerdeki örnek kod dosyalarına göz atabilirsiniz.
